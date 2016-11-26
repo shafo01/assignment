@@ -1,0 +1,22 @@
+Dear Miss:
+
+These images was retrieve from:
+
+http://www.sephora.com/?country_switch=ca
+
+(image 1): http://www.sephora.com/productimages/sku/s932434-main-Lhero.jpg
+(image 2): http://www.sephora.com/productimages/sku/s974634-main-Lhero.jpg
+(image 3): http://www.sephora.com/productimages/sku/s1681881-main-Lhero.jpg
+(image 4): http://www.sephora.com/productimages/sku/s1484625-main-Lhero.jpg
+(image 5): http://www.sephora.com/productimages/sku/s1463801-main-Lhero.jpg
+(image 6): http://www.sephora.com/productimages/sku/s1582725-main-Lhero.jpg
+(image 7): http://www.sephora.com/productimages/sku/s1749753-main-Lhero.jpg
+(image 8):http://www.sephora.com/productimages/sku/s1749753-main-Lhero.jpg
+(image 9): http://www.sephora.com/productimages/sku/s1486836-main-Lhero.jpg
+(image10):http://www.sephora.com/productimages/sku/s1730571-main-Lhero.jpg
+(image11): http://www.sephora.com/productimages/sku/s1730589-main-Lhero.jpg
+(image12)http://www.sephora.com/productimages/sku/s1802073-main-Lhero.jpg
+(image13):http://www.sephora.com/productimages/sku/s1802024-main-Lhero.jpg
+http://www.sephora.com/productimages/sku/s1399112-main-Lhero.jpg
+http://www.sephora.com/productimages/sku/s1297183-main-Lhero.jpg
+
